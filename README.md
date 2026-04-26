@@ -79,7 +79,7 @@ python main.py
 **Input:**
 
 ```
-India successfully launched Chandrayaan-3 mission to the Moon to study the lunar surface.
+India successfully launched Chandrayaan-3 mission to the Moon to study the lunar surface and demonstrate safe landing technology for future space missions..
 ```
 
 **Output:**
@@ -93,7 +93,7 @@ India successfully launched Chandrayaan-3 mission to the Moon to study the lunar
 **Input:**
 
 ```
-NASA confirmed that aliens are living inside the Moon.
+NASA confirmed that aliens are living inside the Moon and are secretly communicating with selected humans on Earth.
 ```
 
 **Output:**
