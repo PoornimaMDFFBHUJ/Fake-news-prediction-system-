@@ -101,28 +101,5 @@ NASA confirmed that aliens are living inside the Moon.
 
 🔴 Fake News
 
-## 📊 Features
-
-* Simple and beginner-friendly project
-* Uses Machine Learning for prediction
-* Command-line interface
-* Easy to extend
-
-## 🚀 Future Scope
-
-* Improve accuracy using advanced models (BERT, LSTM)
-* Add GUI (Tkinter / Web App)
-* Real-time news detection API
-
-## 📚 Learning Outcomes
-
-* Text preprocessing
-* Feature extraction using TF-IDF
-* Model training and evaluation
-* Building ML projects in Python
-
-## 📌 Conclusion
-
-This project demonstrates how Machine Learning can be used to detect fake news and classify textual data effectively.
-
-
+Author
+ Fake News Prediction System- poornima M
