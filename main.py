@@ -12,3 +12,6 @@ while True:
 
     result = predict_news(news)
     print("Result:", result)
+
+
+
