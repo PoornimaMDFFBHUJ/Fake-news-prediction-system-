@@ -85,7 +85,7 @@ India successfully launched Chandrayaan-3 mission to the Moon to study the lunar
 **Output:**
 
 ```
-🟢 Real News
+ Real News
 ```
 
 ---
@@ -99,7 +99,7 @@ NASA confirmed that aliens are living inside the Moon.
 **Output:**
 
 
-🔴 Fake News
+ Fake News
 
 Author
  Fake News Prediction System- poornima M
