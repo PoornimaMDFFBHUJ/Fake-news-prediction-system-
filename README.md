@@ -1,6 +1,6 @@
- Fake News Prediction System
+Fake News Prediction System
 
-## 📌 Overview
+Overview
 
 The **Fake News Prediction System** is a Machine Learning mini project that classifies news content as **REAL** or **FAKE** using Natural Language Processing (NLP) techniques.
 
@@ -8,7 +8,7 @@ This project helps in detecting misinformation and understanding how ML models c
 
 ---
 
-## 🎯 Objectives
+ Objectives
 
 * Predict whether a news article is **Real or Fake**
 * Reduce misinformation spread
@@ -16,7 +16,7 @@ This project helps in detecting misinformation and understanding how ML models c
 
 ---
 
-## 🛠️ Technologies Used
+ Technologies Used
 
 * Python
 * Pandas
@@ -26,7 +26,7 @@ This project helps in detecting misinformation and understanding how ML models c
 
 ---
 
-## 📂 Project Structure
+ Project Structure
 
 ```
 Fake-news-prediction-system/
@@ -42,7 +42,7 @@ Fake-news-prediction-system/
 
 ---
 
-## ⚙️ Working Process
+ Working Process
 
 1. Load dataset with news text
 2. Clean and preprocess the data
@@ -52,21 +52,21 @@ Fake-news-prediction-system/
 
 ---
 
-## ▶️ How to Run
+ How to Run
 
-### 1. Install Requirements
+ 1. Install Requirements
 
 ```
 pip install pandas numpy scikit-learn
 ```
 
-### 2. Train Model
+2. Train Model
 
 ```
 python train.py
 ```
 
-### 3. Run Project
+3. Run Project
 
 ```
 python main.py
@@ -74,7 +74,7 @@ python main.py
 
 ---
 
-## 💻 Example
+ Example
 
 **Input:**
 
